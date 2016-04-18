@@ -1,0 +1,18 @@
+* в Employees скидывать кто регал (id, name, surname, role )
+* убрать из CLients договора
+* в CLients скидывать кто регал (id, name, surname, role )
+* в Clients скидывать массив абонементов (id, check_status, type, activation_date, expiration_date)
+* в Season_tickets скидывать кто добавлял абонемент (id, name, surname, role )
+* фотка не переименовывается при update employee
+* сделать continue в models при create() and update() на нежелательные поля
+передавать сессию в models  в качестве параметра
+во всяких models ... read() registered_by сделать один запрос вместо нескольких
+в SeasonTickets create() сделать generate_contract()
+2) сделать проверку на foreigen key constraint в SeasonTickets
+3) разобраться с нормальным переводом запроса в json
+4) добавить логирование везде и обработку запросов
+5) реорганизовать обработку звпросов
+расставить комметарии и строки документации
+
+типы договоров: "дневной" - 6 мес. с 7.00 до 17.00
+		        "базовый"  - 1 год. с 7.00 до 24.00

@@ -1,0 +1,230 @@
+_internal.py[LINE:87]# INFO     [2016-03-12 15:22:43,776]    * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+_internal.py[LINE:87]# INFO     [2016-03-12 15:22:43,777]    * Restarting with stat
+_internal.py[LINE:87]# WARNING  [2016-03-12 15:22:44,351]    * Debugger is active!
+_internal.py[LINE:87]# INFO     [2016-03-12 15:22:44,356]    * Debugger pin code: 108-728-375
+registry.py[LINE:284]# DEBUG    [2016-03-12 15:23:25,228]   registered 'sha512_crypt' handler: <class 'passlib.handlers.sha2_crypt.sha512_crypt'>
+registry.py[LINE:284]# DEBUG    [2016-03-12 15:23:25,228]   registered 'sha256_crypt' handler: <class 'passlib.handlers.sha2_crypt.sha256_crypt'>
+employees.py[LINE:60]# INFO     [2016-03-12 15:23:25,952]   {'password': 'admin', 'login': 'admin'}
+models.py[LINE:49]# INFO     [2016-03-12 15:23:25,959]   i'm in domain.Employee.update()
+_internal.py[LINE:87]# INFO     [2016-03-12 15:23:25,986]   127.0.0.1 - - [12/Mar/2016 15:23:25] "PUT /ecofitness/api/employees/1?login=admin&password=admin HTTP/1.1" 500 -
+_internal.py[LINE:87]# INFO     [2016-03-12 15:31:13,127]    * Detected change in '/home/danila/PycharmProjects/ecofitness/resources/employees.py', reloading
+_internal.py[LINE:87]# INFO     [2016-03-12 15:31:13,270]    * Restarting with stat
+_internal.py[LINE:87]# WARNING  [2016-03-12 15:31:14,041]    * Debugger is active!
+_internal.py[LINE:87]# INFO     [2016-03-12 15:31:14,046]    * Debugger pin code: 108-728-375
+_internal.py[LINE:87]# INFO     [2016-03-12 15:31:18,283]    * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+_internal.py[LINE:87]# INFO     [2016-03-12 15:31:18,284]    * Restarting with stat
+_internal.py[LINE:87]# WARNING  [2016-03-12 15:31:18,877]    * Debugger is active!
+_internal.py[LINE:87]# INFO     [2016-03-12 15:31:18,883]    * Debugger pin code: 108-728-375
+registry.py[LINE:284]# DEBUG    [2016-03-12 15:31:24,436]   registered 'sha512_crypt' handler: <class 'passlib.handlers.sha2_crypt.sha512_crypt'>
+registry.py[LINE:284]# DEBUG    [2016-03-12 15:31:24,436]   registered 'sha256_crypt' handler: <class 'passlib.handlers.sha2_crypt.sha256_crypt'>
+_internal.py[LINE:87]# INFO     [2016-03-12 15:31:25,198]   127.0.0.1 - - [12/Mar/2016 15:31:25] "PUT /ecofitness/api/employees/1?login=admin&password=admin HTTP/1.1" 500 -
+_internal.py[LINE:87]# INFO     [2016-03-12 15:32:09,353]    * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+_internal.py[LINE:87]# INFO     [2016-03-12 15:32:09,354]    * Restarting with stat
+_internal.py[LINE:87]# WARNING  [2016-03-12 15:32:09,932]    * Debugger is active!
+_internal.py[LINE:87]# INFO     [2016-03-12 15:32:09,937]    * Debugger pin code: 108-728-375
+registry.py[LINE:284]# DEBUG    [2016-03-12 15:32:16,186]   registered 'sha512_crypt' handler: <class 'passlib.handlers.sha2_crypt.sha512_crypt'>
+registry.py[LINE:284]# DEBUG    [2016-03-12 15:32:16,187]   registered 'sha256_crypt' handler: <class 'passlib.handlers.sha2_crypt.sha256_crypt'>
+_internal.py[LINE:87]# INFO     [2016-03-12 15:32:16,921]   127.0.0.1 - - [12/Mar/2016 15:32:16] "PUT /ecofitness/api/employees/1?login=admin&password=admin HTTP/1.1" 500 -
+_internal.py[LINE:87]# INFO     [2016-03-12 15:32:57,511]    * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+_internal.py[LINE:87]# INFO     [2016-03-12 15:32:57,512]    * Restarting with stat
+_internal.py[LINE:87]# WARNING  [2016-03-12 15:32:58,071]    * Debugger is active!
+_internal.py[LINE:87]# INFO     [2016-03-12 15:32:58,076]    * Debugger pin code: 108-728-375
+registry.py[LINE:284]# DEBUG    [2016-03-12 15:33:02,849]   registered 'sha512_crypt' handler: <class 'passlib.handlers.sha2_crypt.sha512_crypt'>
+registry.py[LINE:284]# DEBUG    [2016-03-12 15:33:02,849]   registered 'sha256_crypt' handler: <class 'passlib.handlers.sha2_crypt.sha256_crypt'>
+employees.py[LINE:60]# INFO     [2016-03-12 15:33:03,584]   i'm in put_employee() handler, reqargs: {'password': 'admin', 'login': 'admin'}
+models.py[LINE:49]# INFO     [2016-03-12 15:33:03,589]   i'm in domain.Employee.update()
+_internal.py[LINE:87]# INFO     [2016-03-12 15:33:03,616]   127.0.0.1 - - [12/Mar/2016 15:33:03] "PUT /ecofitness/api/employees/1?login=admin&password=admin HTTP/1.1" 500 -
+_internal.py[LINE:87]# INFO     [2016-03-12 15:35:44,808]    * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+_internal.py[LINE:87]# INFO     [2016-03-12 15:35:44,809]    * Restarting with stat
+_internal.py[LINE:87]# WARNING  [2016-03-12 15:35:45,387]    * Debugger is active!
+_internal.py[LINE:87]# INFO     [2016-03-12 15:35:45,392]    * Debugger pin code: 108-728-375
+_internal.py[LINE:87]# INFO     [2016-03-12 15:36:02,950]    * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+_internal.py[LINE:87]# INFO     [2016-03-12 15:36:02,951]    * Restarting with stat
+_internal.py[LINE:87]# WARNING  [2016-03-12 15:36:03,538]    * Debugger is active!
+_internal.py[LINE:87]# INFO     [2016-03-12 15:36:03,544]    * Debugger pin code: 108-728-375
+registry.py[LINE:284]# DEBUG    [2016-03-12 15:36:07,152]   registered 'sha512_crypt' handler: <class 'passlib.handlers.sha2_crypt.sha512_crypt'>
+registry.py[LINE:284]# DEBUG    [2016-03-12 15:36:07,153]   registered 'sha256_crypt' handler: <class 'passlib.handlers.sha2_crypt.sha256_crypt'>
+employees.py[LINE:60]# INFO     [2016-03-12 15:36:07,864]   i'm in put_employee() handler, reqargs: {'employee': None, 'password': 'admin', 'login': 'admin'}
+models.py[LINE:49]# INFO     [2016-03-12 15:36:07,869]   i'm in domain.Employee.update()
+_internal.py[LINE:87]# INFO     [2016-03-12 15:36:07,895]   127.0.0.1 - - [12/Mar/2016 15:36:07] "PUT /ecofitness/api/employees/1?login=admin&password=admin HTTP/1.1" 500 -
+_internal.py[LINE:87]# INFO     [2016-03-12 15:36:42,941]    * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+_internal.py[LINE:87]# INFO     [2016-03-12 15:36:42,943]    * Restarting with stat
+_internal.py[LINE:87]# WARNING  [2016-03-12 15:36:43,782]    * Debugger is active!
+_internal.py[LINE:87]# INFO     [2016-03-12 15:36:43,791]    * Debugger pin code: 108-728-375
+registry.py[LINE:284]# DEBUG    [2016-03-12 15:36:53,233]   registered 'sha512_crypt' handler: <class 'passlib.handlers.sha2_crypt.sha512_crypt'>
+registry.py[LINE:284]# DEBUG    [2016-03-12 15:36:53,233]   registered 'sha256_crypt' handler: <class 'passlib.handlers.sha2_crypt.sha256_crypt'>
+employees.py[LINE:60]# INFO     [2016-03-12 15:36:53,951]   i'm in put_employee() handler, reqargs: {'namespace_class': <class 'flask_restful.reqparse.Namespace'>, 'argument_class': <class 'flask_restful.reqparse.Argument'>, 'args': [<flask_restful.reqparse.Argument object at 0x7f837659f208>, <flask_restful.reqparse.Argument object at 0x7f837659f278>, <flask_restful.reqparse.Argument object at 0x7f8376584f60>], 'trim': False, 'bundle_errors': False}
+models.py[LINE:49]# INFO     [2016-03-12 15:36:53,957]   i'm in domain.Employee.update()
+_internal.py[LINE:87]# INFO     [2016-03-12 15:36:53,988]   127.0.0.1 - - [12/Mar/2016 15:36:53] "PUT /ecofitness/api/employees/1?login=admin&password=admin HTTP/1.1" 500 -
+_internal.py[LINE:87]# INFO     [2016-03-12 15:37:31,426]    * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+_internal.py[LINE:87]# INFO     [2016-03-12 15:37:31,428]    * Restarting with stat
+_internal.py[LINE:87]# WARNING  [2016-03-12 15:37:31,994]    * Debugger is active!
+_internal.py[LINE:87]# INFO     [2016-03-12 15:37:31,999]    * Debugger pin code: 108-728-375
+registry.py[LINE:284]# DEBUG    [2016-03-12 15:37:43,782]   registered 'sha512_crypt' handler: <class 'passlib.handlers.sha2_crypt.sha512_crypt'>
+registry.py[LINE:284]# DEBUG    [2016-03-12 15:37:43,783]   registered 'sha256_crypt' handler: <class 'passlib.handlers.sha2_crypt.sha256_crypt'>
+employees.py[LINE:60]# INFO     [2016-03-12 15:37:44,505]   i'm in put_employee() handler, reqargs: {'employee': None, 'password': 'admin', 'login': 'admin'}
+models.py[LINE:49]# INFO     [2016-03-12 15:37:44,511]   i'm in domain.Employee.update()
+_internal.py[LINE:87]# INFO     [2016-03-12 15:37:44,539]   127.0.0.1 - - [12/Mar/2016 15:37:44] "PUT /ecofitness/api/employees/1?login=admin&password=admin HTTP/1.1" 500 -
+_internal.py[LINE:87]# INFO     [2016-03-12 15:39:58,942]    * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+_internal.py[LINE:87]# INFO     [2016-03-12 15:39:58,943]    * Restarting with stat
+_internal.py[LINE:87]# WARNING  [2016-03-12 15:39:59,533]    * Debugger is active!
+_internal.py[LINE:87]# INFO     [2016-03-12 15:39:59,541]    * Debugger pin code: 108-728-375
+_internal.py[LINE:87]# INFO     [2016-03-12 15:40:00,945]   127.0.0.1 - - [12/Mar/2016 15:40:00] "PUT /ecofitness/api/employees/1 HTTP/1.1" 400 -
+_internal.py[LINE:87]# INFO     [2016-03-12 15:41:34,932]   127.0.0.1 - - [12/Mar/2016 15:41:34] "PUT /ecofitness/api/employees/1 HTTP/1.1" 400 -
+_internal.py[LINE:87]# INFO     [2016-03-12 15:42:36,994]   127.0.0.1 - - [12/Mar/2016 15:42:36] "PUT /ecofitness/api/employees/1 HTTP/1.1" 400 -
+_internal.py[LINE:87]# INFO     [2016-03-12 15:44:24,013]   127.0.0.1 - - [12/Mar/2016 15:44:24] "PUT /ecofitness/api/employees/1 HTTP/1.1" 400 -
+_internal.py[LINE:87]# INFO     [2016-03-12 15:44:48,904]   127.0.0.1 - - [12/Mar/2016 15:44:48] "PUT /ecofitness/api/employees/1 HTTP/1.1" 400 -
+_internal.py[LINE:87]# INFO     [2016-03-12 15:45:08,272]   127.0.0.1 - - [12/Mar/2016 15:45:08] "PUT /ecofitness/api/employees/1 HTTP/1.1" 400 -
+registry.py[LINE:284]# DEBUG    [2016-03-12 15:45:26,404]   registered 'sha512_crypt' handler: <class 'passlib.handlers.sha2_crypt.sha512_crypt'>
+registry.py[LINE:284]# DEBUG    [2016-03-12 15:45:26,405]   registered 'sha256_crypt' handler: <class 'passlib.handlers.sha2_crypt.sha256_crypt'>
+employees.py[LINE:60]# INFO     [2016-03-12 15:45:27,119]   i'm in put_employee() handler, reqargs: {'login': 'admin', 'password': 'admin', 'employee': "{'patronymic': 'vadimovich'}"}
+models.py[LINE:49]# INFO     [2016-03-12 15:45:27,124]   i'm in domain.Employee.update()
+_internal.py[LINE:87]# INFO     [2016-03-12 15:45:27,146]   127.0.0.1 - - [12/Mar/2016 15:45:27] "PUT /ecofitness/api/employees/1 HTTP/1.1" 500 -
+_internal.py[LINE:87]# INFO     [2016-03-12 15:47:26,834]    * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+_internal.py[LINE:87]# INFO     [2016-03-12 15:47:26,835]    * Restarting with stat
+_internal.py[LINE:87]# WARNING  [2016-03-12 15:47:27,400]    * Debugger is active!
+_internal.py[LINE:87]# INFO     [2016-03-12 15:47:27,406]    * Debugger pin code: 108-728-375
+registry.py[LINE:284]# DEBUG    [2016-03-12 15:47:28,967]   registered 'sha512_crypt' handler: <class 'passlib.handlers.sha2_crypt.sha512_crypt'>
+registry.py[LINE:284]# DEBUG    [2016-03-12 15:47:28,968]   registered 'sha256_crypt' handler: <class 'passlib.handlers.sha2_crypt.sha256_crypt'>
+employees.py[LINE:60]# INFO     [2016-03-12 15:47:29,684]   i'm in put_employee() handler, reqargs: {'login': 'admin', 'employee': "{'patronymic': 'vadimovich'}", 'password': 'admin'}
+models.py[LINE:49]# INFO     [2016-03-12 15:47:29,688]   i'm in domain.Employee.update(), employee_fields:{'login': 'admin', 'employee': "{'patronymic': 'vadimovich'}", 'password': 'admin'}
+_internal.py[LINE:87]# INFO     [2016-03-12 15:47:29,715]   127.0.0.1 - - [12/Mar/2016 15:47:29] "PUT /ecofitness/api/employees/1 HTTP/1.1" 500 -
+_internal.py[LINE:87]# INFO     [2016-03-12 15:51:01,145]    * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+_internal.py[LINE:87]# INFO     [2016-03-12 15:51:01,146]    * Restarting with stat
+_internal.py[LINE:87]# WARNING  [2016-03-12 15:51:01,723]    * Debugger is active!
+_internal.py[LINE:87]# INFO     [2016-03-12 15:51:01,728]    * Debugger pin code: 108-728-375
+registry.py[LINE:284]# DEBUG    [2016-03-12 15:51:04,865]   registered 'sha512_crypt' handler: <class 'passlib.handlers.sha2_crypt.sha512_crypt'>
+registry.py[LINE:284]# DEBUG    [2016-03-12 15:51:04,866]   registered 'sha256_crypt' handler: <class 'passlib.handlers.sha2_crypt.sha256_crypt'>
+employees.py[LINE:60]# INFO     [2016-03-12 15:51:05,577]   i'm in put_employee() handler, reqargs: {'employee': "{'patronymic': 'vadimovich'}", 'login': 'admin', 'password': 'admin'}
+models.py[LINE:49]# INFO     [2016-03-12 15:51:05,581]   i'm in domain.Employee.update(), employee_fields:{'patronymic': 'vadimovich'}
+models.py[LINE:53]# WARNING  [2016-03-12 15:51:05,581]   плохие поля в domain.Employee.update()
+_internal.py[LINE:87]# INFO     [2016-03-12 15:51:05,603]   127.0.0.1 - - [12/Mar/2016 15:51:05] "PUT /ecofitness/api/employees/1 HTTP/1.1" 500 -
+_internal.py[LINE:87]# INFO     [2016-03-12 15:53:00,406]    * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+_internal.py[LINE:87]# INFO     [2016-03-12 15:53:00,408]    * Restarting with stat
+_internal.py[LINE:87]# WARNING  [2016-03-12 15:53:00,985]    * Debugger is active!
+_internal.py[LINE:87]# INFO     [2016-03-12 15:53:00,990]    * Debugger pin code: 108-728-375
+registry.py[LINE:284]# DEBUG    [2016-03-12 15:53:06,519]   registered 'sha512_crypt' handler: <class 'passlib.handlers.sha2_crypt.sha512_crypt'>
+registry.py[LINE:284]# DEBUG    [2016-03-12 15:53:06,519]   registered 'sha256_crypt' handler: <class 'passlib.handlers.sha2_crypt.sha256_crypt'>
+employees.py[LINE:60]# INFO     [2016-03-12 15:53:07,235]   i'm in put_employee() handler, reqargs: {'employee': "{'patronymic': 'vadimovich'}", 'login': 'admin', 'password': 'admin'}
+models.py[LINE:49]# INFO     [2016-03-12 15:53:07,240]   i'm in domain.Employee.update(), employee_fields:{'patronymic': 'vadimovich'}
+models.py[LINE:53]# WARNING  [2016-03-12 15:53:07,240]   плохие поля в domain.Employee.update()
+_internal.py[LINE:87]# INFO     [2016-03-12 15:53:07,265]   127.0.0.1 - - [12/Mar/2016 15:53:07] "PUT /ecofitness/api/employees/1 HTTP/1.1" 500 -
+_internal.py[LINE:87]# INFO     [2016-03-12 15:54:28,220]    * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+_internal.py[LINE:87]# INFO     [2016-03-12 15:54:28,221]    * Restarting with stat
+_internal.py[LINE:87]# WARNING  [2016-03-12 15:54:28,794]    * Debugger is active!
+_internal.py[LINE:87]# INFO     [2016-03-12 15:54:28,799]    * Debugger pin code: 108-728-375
+registry.py[LINE:284]# DEBUG    [2016-03-12 15:54:31,361]   registered 'sha512_crypt' handler: <class 'passlib.handlers.sha2_crypt.sha512_crypt'>
+registry.py[LINE:284]# DEBUG    [2016-03-12 15:54:31,361]   registered 'sha256_crypt' handler: <class 'passlib.handlers.sha2_crypt.sha256_crypt'>
+employees.py[LINE:60]# INFO     [2016-03-12 15:54:32,142]   i'm in put_employee() handler, reqargs: {'login': 'admin', 'employee': "{'patronymic': 'vadimovich'}", 'password': 'admin'}
+models.py[LINE:49]# INFO     [2016-03-12 15:54:32,147]   i'm in domain.Employee.update(), employee_fields:{'patronymic': 'vadimovich'}
+models.py[LINE:55]# WARNING  [2016-03-12 15:54:32,147]   плохие поля в domain.Employee.update()
+_internal.py[LINE:87]# INFO     [2016-03-12 15:54:32,172]   127.0.0.1 - - [12/Mar/2016 15:54:32] "PUT /ecofitness/api/employees/1 HTTP/1.1" 500 -
+_internal.py[LINE:87]# INFO     [2016-03-12 15:58:46,425]    * Detected change in '/home/danila/PycharmProjects/ecofitness/domain/models.py', reloading
+_internal.py[LINE:87]# INFO     [2016-03-12 15:58:46,633]    * Restarting with stat
+_internal.py[LINE:87]# WARNING  [2016-03-12 15:58:47,539]    * Debugger is active!
+_internal.py[LINE:87]# INFO     [2016-03-12 15:58:47,544]    * Debugger pin code: 108-728-375
+_internal.py[LINE:87]# INFO     [2016-03-12 15:59:33,590]    * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+_internal.py[LINE:87]# INFO     [2016-03-12 15:59:33,592]    * Restarting with stat
+_internal.py[LINE:87]# WARNING  [2016-03-12 15:59:34,179]    * Debugger is active!
+_internal.py[LINE:87]# INFO     [2016-03-12 15:59:34,184]    * Debugger pin code: 108-728-375
+registry.py[LINE:284]# DEBUG    [2016-03-12 15:59:40,663]   registered 'sha512_crypt' handler: <class 'passlib.handlers.sha2_crypt.sha512_crypt'>
+registry.py[LINE:284]# DEBUG    [2016-03-12 15:59:40,663]   registered 'sha256_crypt' handler: <class 'passlib.handlers.sha2_crypt.sha256_crypt'>
+employees.py[LINE:60]# INFO     [2016-03-12 15:59:41,391]   i'm in put_employee() handler, reqargs: {'password': 'admin', 'employee': "{'patronymic': 'vadimovich'}", 'login': 'admin'}
+models.py[LINE:49]# INFO     [2016-03-12 15:59:41,396]   i'm in domain.Employee.update(), employee_fields:{'patronymic': 'vadimovich'}
+models.py[LINE:55]# WARNING  [2016-03-12 15:59:41,396]   плохие поля в domain.Employee.update()
+_internal.py[LINE:87]# INFO     [2016-03-12 15:59:41,426]   127.0.0.1 - - [12/Mar/2016 15:59:41] "PUT /ecofitness/api/employees/1 HTTP/1.1" 500 -
+_internal.py[LINE:87]# INFO     [2016-03-12 16:02:50,180]    * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+_internal.py[LINE:87]# INFO     [2016-03-12 16:02:50,182]    * Restarting with stat
+_internal.py[LINE:87]# WARNING  [2016-03-12 16:02:50,770]    * Debugger is active!
+_internal.py[LINE:87]# INFO     [2016-03-12 16:02:50,775]    * Debugger pin code: 108-728-375
+registry.py[LINE:284]# DEBUG    [2016-03-12 16:02:53,810]   registered 'sha512_crypt' handler: <class 'passlib.handlers.sha2_crypt.sha512_crypt'>
+registry.py[LINE:284]# DEBUG    [2016-03-12 16:02:53,817]   registered 'sha256_crypt' handler: <class 'passlib.handlers.sha2_crypt.sha256_crypt'>
+employees.py[LINE:60]# INFO     [2016-03-12 16:02:54,535]   i'm in put_employee() handler, reqargs: {'login': 'admin', 'password': 'admin', 'employee': "{'patronymic': 'vadimovich'}"}
+models.py[LINE:49]# INFO     [2016-03-12 16:02:54,539]   i'm in domain.Employee.update(), employee_fields:{'patronymic': 'vadimovich'}
+models.py[LINE:55]# WARNING  [2016-03-12 16:02:54,540]   плохие поля в domain.Employee.update()
+_internal.py[LINE:87]# INFO     [2016-03-12 16:02:54,566]   127.0.0.1 - - [12/Mar/2016 16:02:54] "PUT /ecofitness/api/employees/1 HTTP/1.1" 500 -
+_internal.py[LINE:87]# INFO     [2016-03-12 16:03:36,492]    * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+_internal.py[LINE:87]# INFO     [2016-03-12 16:03:36,493]    * Restarting with stat
+_internal.py[LINE:87]# WARNING  [2016-03-12 16:03:37,274]    * Debugger is active!
+_internal.py[LINE:87]# INFO     [2016-03-12 16:03:37,290]    * Debugger pin code: 108-728-375
+registry.py[LINE:284]# DEBUG    [2016-03-12 16:03:38,283]   registered 'sha512_crypt' handler: <class 'passlib.handlers.sha2_crypt.sha512_crypt'>
+registry.py[LINE:284]# DEBUG    [2016-03-12 16:03:38,284]   registered 'sha256_crypt' handler: <class 'passlib.handlers.sha2_crypt.sha256_crypt'>
+employees.py[LINE:60]# INFO     [2016-03-12 16:03:39,031]   i'm in put_employee() handler, reqargs: {'employee': "{'patronymic': 'vadimovich'}", 'password': 'admin', 'login': 'admin'}
+models.py[LINE:49]# INFO     [2016-03-12 16:03:39,036]   i'm in domain.Employee.update(), employee_fields:{'patronymic': 'vadimovich'}
+models.py[LINE:56]# WARNING  [2016-03-12 16:03:39,037]   плохие поля в domain.Employee.update()
+_internal.py[LINE:87]# INFO     [2016-03-12 16:03:39,066]   127.0.0.1 - - [12/Mar/2016 16:03:39] "PUT /ecofitness/api/employees/1 HTTP/1.1" 500 -
+_internal.py[LINE:87]# INFO     [2016-03-12 16:04:53,298]    * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+_internal.py[LINE:87]# INFO     [2016-03-12 16:04:53,300]    * Restarting with stat
+_internal.py[LINE:87]# WARNING  [2016-03-12 16:04:53,964]    * Debugger is active!
+_internal.py[LINE:87]# INFO     [2016-03-12 16:04:53,970]    * Debugger pin code: 108-728-375
+registry.py[LINE:284]# DEBUG    [2016-03-12 16:04:55,481]   registered 'sha512_crypt' handler: <class 'passlib.handlers.sha2_crypt.sha512_crypt'>
+registry.py[LINE:284]# DEBUG    [2016-03-12 16:04:55,482]   registered 'sha256_crypt' handler: <class 'passlib.handlers.sha2_crypt.sha256_crypt'>
+employees.py[LINE:60]# INFO     [2016-03-12 16:04:56,195]   i'm in put_employee() handler, reqargs: {'employee': "{'patronymic': 'vadimovich'}", 'password': 'admin', 'login': 'admin'}
+models.py[LINE:49]# INFO     [2016-03-12 16:04:56,200]   i'm in domain.Employee.update(), employee_fields:{'patronymic': 'vadimovich'}
+models.py[LINE:56]# WARNING  [2016-03-12 16:04:56,201]   плохие поля в domain.Employee.update()
+_internal.py[LINE:87]# INFO     [2016-03-12 16:04:56,228]   127.0.0.1 - - [12/Mar/2016 16:04:56] "PUT /ecofitness/api/employees/1 HTTP/1.1" 500 -
+_internal.py[LINE:87]# INFO     [2016-03-12 16:05:20,035]    * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+_internal.py[LINE:87]# INFO     [2016-03-12 16:05:20,037]    * Restarting with stat
+_internal.py[LINE:87]# WARNING  [2016-03-12 16:05:20,690]    * Debugger is active!
+_internal.py[LINE:87]# INFO     [2016-03-12 16:05:20,695]    * Debugger pin code: 108-728-375
+registry.py[LINE:284]# DEBUG    [2016-03-12 16:05:22,301]   registered 'sha512_crypt' handler: <class 'passlib.handlers.sha2_crypt.sha512_crypt'>
+registry.py[LINE:284]# DEBUG    [2016-03-12 16:05:22,301]   registered 'sha256_crypt' handler: <class 'passlib.handlers.sha2_crypt.sha256_crypt'>
+employees.py[LINE:60]# INFO     [2016-03-12 16:05:23,297]   i'm in put_employee() handler, reqargs: {'employee': "{'patronymic': 'vadimovich'}", 'login': 'admin', 'password': 'admin'}
+models.py[LINE:49]# INFO     [2016-03-12 16:05:23,302]   i'm in domain.Employee.update(), employee_fields:{'patronymic': 'vadimovich'}
+models.py[LINE:56]# WARNING  [2016-03-12 16:05:23,302]   плохие поля в domain.Employee.update()
+_internal.py[LINE:87]# INFO     [2016-03-12 16:05:23,328]   127.0.0.1 - - [12/Mar/2016 16:05:23] "PUT /ecofitness/api/employees/1 HTTP/1.1" 500 -
+_internal.py[LINE:87]# INFO     [2016-03-12 16:06:44,818]    * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+_internal.py[LINE:87]# INFO     [2016-03-12 16:06:44,819]    * Restarting with stat
+_internal.py[LINE:87]# WARNING  [2016-03-12 16:06:45,412]    * Debugger is active!
+_internal.py[LINE:87]# INFO     [2016-03-12 16:06:45,418]    * Debugger pin code: 108-728-375
+registry.py[LINE:284]# DEBUG    [2016-03-12 16:06:47,883]   registered 'sha512_crypt' handler: <class 'passlib.handlers.sha2_crypt.sha512_crypt'>
+registry.py[LINE:284]# DEBUG    [2016-03-12 16:06:47,883]   registered 'sha256_crypt' handler: <class 'passlib.handlers.sha2_crypt.sha256_crypt'>
+employees.py[LINE:60]# INFO     [2016-03-12 16:06:48,624]   i'm in put_employee() handler, reqargs: {'employee': "{'patronymic': 'vadimovich'}", 'login': 'admin', 'password': 'admin'}
+models.py[LINE:49]# INFO     [2016-03-12 16:06:48,629]   i'm in domain.Employee.update(), employee_fields:{'patronymic': 'vadimovich'}
+models.py[LINE:56]# WARNING  [2016-03-12 16:06:48,629]   плохие поля в domain.Employee.update()
+_internal.py[LINE:87]# INFO     [2016-03-12 16:06:48,656]   127.0.0.1 - - [12/Mar/2016 16:06:48] "PUT /ecofitness/api/employees/1 HTTP/1.1" 500 -
+_internal.py[LINE:87]# INFO     [2016-03-12 16:08:10,890]    * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+_internal.py[LINE:87]# INFO     [2016-03-12 16:08:10,891]    * Restarting with stat
+_internal.py[LINE:87]# WARNING  [2016-03-12 16:08:11,483]    * Debugger is active!
+_internal.py[LINE:87]# INFO     [2016-03-12 16:08:11,489]    * Debugger pin code: 108-728-375
+registry.py[LINE:284]# DEBUG    [2016-03-12 16:08:14,640]   registered 'sha512_crypt' handler: <class 'passlib.handlers.sha2_crypt.sha512_crypt'>
+registry.py[LINE:284]# DEBUG    [2016-03-12 16:08:14,640]   registered 'sha256_crypt' handler: <class 'passlib.handlers.sha2_crypt.sha256_crypt'>
+employees.py[LINE:60]# INFO     [2016-03-12 16:08:15,372]   i'm in put_employee() handler, reqargs: {'password': 'admin', 'employee': "{'patronymic': 'vadimovich'}", 'login': 'admin'}
+models.py[LINE:49]# INFO     [2016-03-12 16:08:15,376]   i'm in domain.Employee.update(), employee_fields:{'patronymic': 'vadimovich'}
+_internal.py[LINE:87]# INFO     [2016-03-12 16:08:15,399]   127.0.0.1 - - [12/Mar/2016 16:08:15] "PUT /ecofitness/api/employees/1 HTTP/1.1" 500 -
+_internal.py[LINE:87]# INFO     [2016-03-12 16:10:02,099]    * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+_internal.py[LINE:87]# INFO     [2016-03-12 16:10:02,100]    * Restarting with stat
+_internal.py[LINE:87]# WARNING  [2016-03-12 16:10:02,702]    * Debugger is active!
+_internal.py[LINE:87]# INFO     [2016-03-12 16:10:02,708]    * Debugger pin code: 108-728-375
+registry.py[LINE:284]# DEBUG    [2016-03-12 16:10:09,611]   registered 'sha512_crypt' handler: <class 'passlib.handlers.sha2_crypt.sha512_crypt'>
+registry.py[LINE:284]# DEBUG    [2016-03-12 16:10:09,611]   registered 'sha256_crypt' handler: <class 'passlib.handlers.sha2_crypt.sha256_crypt'>
+employees.py[LINE:60]# INFO     [2016-03-12 16:10:10,357]   i'm in put_employee() handler, reqargs: {'password': 'admin', 'login': 'admin', 'employee': "{'patronymic': 'vadimovich'}"}
+models.py[LINE:49]# INFO     [2016-03-12 16:10:10,362]   i'm in domain.Employee.update(), employee_fields:{'patronymic': 'vadimovich'}
+_internal.py[LINE:87]# INFO     [2016-03-12 16:10:10,393]   127.0.0.1 - - [12/Mar/2016 16:10:10] "PUT /ecofitness/api/employees/1 HTTP/1.1" 500 -
+_internal.py[LINE:87]# INFO     [2016-03-12 16:11:29,136]    * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+_internal.py[LINE:87]# INFO     [2016-03-12 16:11:29,137]    * Restarting with stat
+_internal.py[LINE:87]# WARNING  [2016-03-12 16:11:29,738]    * Debugger is active!
+_internal.py[LINE:87]# INFO     [2016-03-12 16:11:29,744]    * Debugger pin code: 108-728-375
+registry.py[LINE:284]# DEBUG    [2016-03-12 16:11:33,332]   registered 'sha512_crypt' handler: <class 'passlib.handlers.sha2_crypt.sha512_crypt'>
+registry.py[LINE:284]# DEBUG    [2016-03-12 16:11:33,333]   registered 'sha256_crypt' handler: <class 'passlib.handlers.sha2_crypt.sha256_crypt'>
+employees.py[LINE:60]# INFO     [2016-03-12 16:11:34,071]   i'm in put_employee() handler, reqargs: {'employee': "{'patronymic': 'vadimovich'}", 'password': 'admin', 'login': 'admin'}
+models.py[LINE:49]# INFO     [2016-03-12 16:11:34,076]   i'm in domain.Employee.update(), employee_fields:{'patronymic': 'vadimovich'}
+_internal.py[LINE:87]# INFO     [2016-03-12 16:11:34,103]   127.0.0.1 - - [12/Mar/2016 16:11:34] "PUT /ecofitness/api/employees/1 HTTP/1.1" 500 -
+_internal.py[LINE:87]# INFO     [2016-03-12 16:12:16,851]    * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+_internal.py[LINE:87]# INFO     [2016-03-12 16:12:16,852]    * Restarting with stat
+_internal.py[LINE:87]# WARNING  [2016-03-12 16:12:17,432]    * Debugger is active!
+_internal.py[LINE:87]# INFO     [2016-03-12 16:12:17,437]    * Debugger pin code: 108-728-375
+registry.py[LINE:284]# DEBUG    [2016-03-12 16:12:20,969]   registered 'sha512_crypt' handler: <class 'passlib.handlers.sha2_crypt.sha512_crypt'>
+registry.py[LINE:284]# DEBUG    [2016-03-12 16:12:20,970]   registered 'sha256_crypt' handler: <class 'passlib.handlers.sha2_crypt.sha256_crypt'>
+employees.py[LINE:60]# INFO     [2016-03-12 16:12:21,711]   i'm in put_employee() handler, reqargs: {'employee': "{'patronymic': 'vadimovich'}", 'login': 'admin', 'password': 'admin'}
+models.py[LINE:49]# INFO     [2016-03-12 16:12:21,718]   i'm in domain.Employee.update(), employee_fields:{'patronymic': 'vadimovich'}
+_internal.py[LINE:87]# INFO     [2016-03-12 16:12:21,744]   127.0.0.1 - - [12/Mar/2016 16:12:21] "PUT /ecofitness/api/employees/1 HTTP/1.1" 500 -
+_internal.py[LINE:87]# INFO     [2016-03-12 16:12:55,448]    * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+_internal.py[LINE:87]# INFO     [2016-03-12 16:12:55,449]    * Restarting with stat
+_internal.py[LINE:87]# WARNING  [2016-03-12 16:12:56,086]    * Debugger is active!
+_internal.py[LINE:87]# INFO     [2016-03-12 16:12:56,091]    * Debugger pin code: 108-728-375
+registry.py[LINE:284]# DEBUG    [2016-03-12 16:12:57,133]   registered 'sha512_crypt' handler: <class 'passlib.handlers.sha2_crypt.sha512_crypt'>
+registry.py[LINE:284]# DEBUG    [2016-03-12 16:12:57,134]   registered 'sha256_crypt' handler: <class 'passlib.handlers.sha2_crypt.sha256_crypt'>
+employees.py[LINE:60]# INFO     [2016-03-12 16:12:57,875]   i'm in put_employee() handler, reqargs: {'password': 'admin', 'employee': "{'patronymic': 'vadimovich'}", 'login': 'admin'}
+models.py[LINE:49]# INFO     [2016-03-12 16:12:57,880]   i'm in domain.Employee.update(), employee_fields:{'patronymic': 'vadimovich'}
+_internal.py[LINE:87]# INFO     [2016-03-12 16:12:57,902]   127.0.0.1 - - [12/Mar/2016 16:12:57] "PUT /ecofitness/api/employees/1 HTTP/1.1" 500 -
